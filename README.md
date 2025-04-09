@@ -29,13 +29,13 @@ Microsoft Azure Translator
 
 1. **Clone the repository**
 
-``bash
+```bash
 git clone https://github.com/yourusername/text-translator.git
 cd text-translator
 
 2. **Create and activate a virtual environment**
 
-``bash
+```bash
 python -m venv venv
 source venv/bin/activate
 
